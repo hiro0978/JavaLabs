@@ -11,3 +11,4 @@
 | 2 | Матриця: min, max, середнє арифметичне та геометричне | `lab2.MatrixApp` |
 | 3 | ООП, MVC: модель університету | `lab3.Run` |
 | 4 | JSON (Gson) + JUnit 5 | `lab4.Run`, тест `JsonManagerTest` |
+| 5 | JDBC + H2: студенти за місяцем народження | `lab5.Run`, скрипт `resources/database.sql` |
